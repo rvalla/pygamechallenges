@@ -11,6 +11,7 @@ This little project is possible thanks to a lot of work done by others in the *o
 Particularly in this case I need to mention:
 
 - [**python**](https://python.org): the language I use here.  
+- [**pygame**](https://www.pygame.org/docs): the library to play.  
 
 Feel free to contact me by [mail](mailto:rodrigovalla@protonmail.ch) or reach me in
 [telegram](https://t.me/rvalla) or [mastodon](https://fosstodon.org/@rvalla).
