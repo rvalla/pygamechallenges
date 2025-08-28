@@ -1,6 +1,6 @@
 ![logo](https://gitlab.com/rodrigovalla/pygamechallenges/-/raw/themoststable/assets/img/icon_64.png)
 
-# pigame challenges
+# pygame challenges
 
 Sometimes I have to teach something. I use this repository to teach programming with **python** and
 **pygame**. The comments in the code are in Spanish because I am in Buenos Aires as are my students.    
